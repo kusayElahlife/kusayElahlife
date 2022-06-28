@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kusay Elhalife</h1>
-<h3 align="center">Junior Frontend Web Developer JavaScript | react.js | REST Api | JSON | html5 | CSS3 | SASS | BootStrap | Git | Gulp | SEO</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Junior+Frontend+Web+Developer+REACT)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kusayelahlife&label=Profile%20views&color=0e75b6&style=flat" alt="kusayelahlife" /> </p>
 
